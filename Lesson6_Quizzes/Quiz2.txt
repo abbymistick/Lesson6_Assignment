@@ -8,8 +8,11 @@ Questions:
 
 1.  Name two methods you can use to add a node to the DOM tree, and explain the difference between them.
 
-
+You can use the appendChild() method or the insertBefore() method.
+The appendChild method is used by specifying the node to be attached, which is the child node, and the parent node to attach it to. 
+The insertBefore method allows you to specify the order of the nodes. 
 
 
 
 2.  List the six main objects that make up the browser object model. 
+Navigator, document, window, history, location, and scree. 
